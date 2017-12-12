@@ -1,1 +1,7 @@
-variable % 2 === 0
+// If variable is divisible by x//
+variable % x === 0
+
+//IF statement example//
+if (answer === 42) {
+  console.log('Told you so!');
+}
